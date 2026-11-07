@@ -1,4 +1,5 @@
 # TinyHand for Linux/X11
+<img width="1440" height="810" alt="TinyHand pointing at a click target" src="https://github.com/user-attachments/assets/0aaab301-9198-4ebc-97f0-63694040bf88" />
 
 A tiny hand on a stick that points at things on your screen. Port of
 [nilbuild/tinyhand](https://github.com/nilbuild/tinyhand) (macOS, MIT) to X11 + PyQt5.
@@ -67,3 +68,5 @@ upstream assets. Upstream copyright © 2026 Kamran Ahmed — see `LICENSE`.
 **Unofficial.** This is a port, not a release of the upstream project: it is not affiliated with,
 sponsored by or endorsed by Kamran Ahmed or TinyHand, and the name is used only to say what it is
 a port of. `LICENSE` must travel with any copy or derivative of this tree.
+
+
